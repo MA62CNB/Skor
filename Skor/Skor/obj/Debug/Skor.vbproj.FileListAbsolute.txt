@@ -1,0 +1,20 @@
+C:\Users\user\AppData\Local\Temporary Projects\Skor\bin\Debug\Skor.exe
+C:\Users\user\AppData\Local\Temporary Projects\Skor\bin\Debug\Skor.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Skor\bin\Debug\Skor.xml
+C:\Users\user\AppData\Local\Temporary Projects\Skor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Skor\obj\Debug\Skor.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Skor\obj\Debug\Skor.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Skor\obj\Debug\Skor.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Skor\obj\Debug\Skor.exe
+C:\Users\user\AppData\Local\Temporary Projects\Skor\obj\Debug\Skor.xml
+C:\Users\user\AppData\Local\Temporary Projects\Skor\obj\Debug\Skor.pdb
+C:\Users\user\staj\Skor\Skor\obj\Debug\Skor.exe
+C:\Users\user\staj\Skor\Skor\obj\Debug\Skor.xml
+C:\Users\user\staj\Skor\Skor\obj\Debug\Skor.pdb
+C:\Users\user\staj\Skor\Skor\bin\Debug\Skor.exe
+C:\Users\user\staj\Skor\Skor\bin\Debug\Skor.pdb
+C:\Users\user\staj\Skor\Skor\bin\Debug\Skor.xml
+C:\Users\user\staj\Skor\Skor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\staj\Skor\Skor\obj\Debug\Skor.Form1.resources
+C:\Users\user\staj\Skor\Skor\obj\Debug\Skor.Resources.resources
+C:\Users\user\staj\Skor\Skor\obj\Debug\Skor.vbproj.GenerateResource.Cache
